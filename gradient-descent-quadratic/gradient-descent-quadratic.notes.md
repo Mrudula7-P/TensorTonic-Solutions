@@ -1,0 +1,1 @@
+derivative(f(x)) = 2*a*x + b
